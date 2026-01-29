@@ -225,7 +225,7 @@ POST   /api/estimator/calculate  - Calculate treatment cost
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Prakhar-Sahu08/MyCureQuest.git
+git clone https://github.com/Eshuv/CureQuest.git
 cd MyCureQuest
 ```
 
